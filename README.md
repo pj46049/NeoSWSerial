@@ -1,4 +1,4 @@
-**This is a clone of SlashDevin's NeoSWSerial library which I extended with support for the Arduino Every.**
+**This is a clone of SlashDevin's [NeoSWSerial](https://github.com/SlashDevin/NeoSWSerial) library which I extended with support for the Arduino Every. All credits belong to SlashDevin for this excellent library**
 
 **Disclaimer: I am not responsible for any damage that using this library causes. I tested it successfully on my Arduino Every and that is it.**
 
